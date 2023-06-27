@@ -1,0 +1,2 @@
+#Tue Jun 27 12:32:14 EDT 2023
+MOTION_BLUR=false
