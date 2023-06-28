@@ -11,12 +11,22 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Medieval Immersed",
-  "version": "Legendary_Edition-1.20.1-v.1.0.0",
+  "version": "Legendary_Edition-1.20.1-v.1.0.1",
   "author": "Keef_DGAF",
   "files": [
     {
+      "projectID": 852671,
+      "fileID": 4613439,
+      "required": true
+    },
+    {
       "projectID": 415438,
       "fileID": 4593814,
+      "required": true
+    },
+    {
+      "projectID": 426206,
+      "fileID": 4612540,
       "required": true
     },
     {
@@ -31,7 +41,7 @@
     },
     {
       "projectID": 499980,
-      "fileID": 4603616,
+      "fileID": 4612172,
       "required": true
     },
     {
@@ -115,8 +125,18 @@
       "required": true
     },
     {
+      "projectID": 500273,
+      "fileID": 4612697,
+      "required": true
+    },
+    {
       "projectID": 825265,
       "fileID": 4599708,
+      "required": true
+    },
+    {
+      "projectID": 351441,
+      "fileID": 4613539,
       "required": true
     },
     {
@@ -147,6 +167,11 @@
     {
       "projectID": 390717,
       "fileID": 4583488,
+      "required": true
+    },
+    {
+      "projectID": 852670,
+      "fileID": 4613349,
       "required": true
     },
     {
@@ -245,8 +270,18 @@
       "required": true
     },
     {
+      "projectID": 840873,
+      "fileID": 4600978,
+      "required": true
+    },
+    {
       "projectID": 342584,
       "fileID": 4601906,
+      "required": true
+    },
+    {
+      "projectID": 521932,
+      "fileID": 4612765,
       "required": true
     },
     {
@@ -362,6 +397,11 @@
     {
       "projectID": 317134,
       "fileID": 4570601,
+      "required": true
+    },
+    {
+      "projectID": 682567,
+      "fileID": 4613531,
       "required": true
     },
     {
@@ -655,8 +695,18 @@
       "required": true
     },
     {
+      "projectID": 551151,
+      "fileID": 4613535,
+      "required": true
+    },
+    {
       "projectID": 518319,
       "fileID": 3902698,
+      "required": true
+    },
+    {
+      "projectID": 495476,
+      "fileID": 4611769,
       "required": true
     },
     {
@@ -700,6 +750,11 @@
       "required": true
     },
     {
+      "projectID": 852665,
+      "fileID": 4613537,
+      "required": true
+    },
+    {
       "projectID": 825308,
       "fileID": 4599713,
       "required": true
@@ -715,8 +770,18 @@
       "required": true
     },
     {
+      "projectID": 873788,
+      "fileID": 4611407,
+      "required": true
+    },
+    {
       "projectID": 311377,
       "fileID": 4607169,
+      "required": true
+    },
+    {
+      "projectID": 852668,
+      "fileID": 4611982,
       "required": true
     },
     {
@@ -757,6 +822,11 @@
     {
       "projectID": 833233,
       "fileID": 4610530,
+      "required": true
+    },
+    {
+      "projectID": 659887,
+      "fileID": 4612108,
       "required": true
     }
   ],

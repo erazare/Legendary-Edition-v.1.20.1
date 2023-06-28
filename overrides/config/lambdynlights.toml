@@ -25,6 +25,7 @@ mode = "fancy"
 				panda = true
 				bee = true
 				axolotl = true
+				arrow = true
 				cow = true
 				pig = true
 				allay = true
@@ -51,6 +52,7 @@ mode = "fancy"
 				glow_item_frame = false
 				squid = true
 				creeper = true
+				lightning_bolt = true
 				enderman = true
 				chicken = true
 				donkey = true
@@ -74,6 +76,9 @@ mode = "fancy"
 				witch = true
 				spider = true
 
+			[light_sources.settings.entities.regions_unexplored]
+				boat = true
+
 			[light_sources.settings.entities.frycmobvariants]
 				tropical_spider = true
 				corsair = true
@@ -86,6 +91,7 @@ mode = "fancy"
 			[light_sources.settings.entities.varietyaquatic]
 				lionfish = true
 				hermitcrab = true
+				yellowfin = true
 				opah = true
 				crab = true
 
