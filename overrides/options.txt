@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","file/Dark+Renaissance+v2.6.0.zip","file/FreshAnimations_v1.8.1.zip","file/§f§lDynamic§7§o§lSurroundings§b♦§a§nv2.3.1.zip","Supplementaries Generated Pack","file/automata-steve.zip","file/Fantasy_Ores_v7.1[classic].zip","file/cozy-critters-1-19-4.zip","file/HumanPlayerVillagers[12].zip","Essence RPG Resources v1.18.zip","file/Gothic RPG Font.zip","file/DiscreetGUI V1.4.zip"]
-incompatibleResourcePacks:["file/Dark+Renaissance+v2.6.0.zip","file/FreshAnimations_v1.8.1.zip","file/§f§lDynamic§7§o§lSurroundings§b♦§a§nv2.3.1.zip","file/automata-steve.zip","file/Fantasy_Ores_v7.1[classic].zip","file/cozy-critters-1-19-4.zip","file/HumanPlayerVillagers[12].zip","file/Gothic RPG Font.zip","file/DiscreetGUI V1.4.zip"]
+resourcePacks:["vanilla","fabric","file/MeineKraft+64x+1.20.x.zip","file/§f§lDynamic§7§o§lSurroundings§b♦§a§nv2.3.1.zip","file/FreshAnimations_v1.8.1.zip","file/cozy-critters-1-19-4.zip","file/HumanPlayerVillagers[12].zip","file/automata-steve.zip","Supplementaries Generated Pack","file/Fantasy_Ores_v7.1[classic].zip","Essence RPG Resources v1.18.zip","file/Gothic RPG Font.zip","file/DiscreetGUI V1.4.zip","file/Food Tooltips-1.0.3.zip"]
+incompatibleResourcePacks:["file/§f§lDynamic§7§o§lSurroundings§b♦§a§nv2.3.1.zip","file/FreshAnimations_v1.8.1.zip","file/cozy-critters-1-19-4.zip","file/HumanPlayerVillagers[12].zip","file/automata-steve.zip","file/Fantasy_Ores_v7.1[classic].zip","file/Gothic RPG Font.zip","file/DiscreetGUI V1.4.zip"]
 lastServer:
 lang:en_us
 soundDevice:""

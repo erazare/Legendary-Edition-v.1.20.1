@@ -27,13 +27,16 @@ mode = "fancy"
 				axolotl = true
 				arrow = true
 				cow = true
+				magma_cube = true
 				pig = true
 				allay = true
 				skeleton = true
 				llama = true
 				bat = true
 				frog = true
+				hoglin = true
 				rabbit = true
+				silverfish = true
 				armor_stand = true
 				drowned = true
 				experience_orb = true
@@ -43,11 +46,15 @@ mode = "fancy"
 				salmon = true
 				vex = true
 				wither_skeleton = true
+				piglin_brute = true
 				goat = true
+				ocelot = true
 				item_frame = true
 				horse = true
 				vindicator = true
+				phantom = true
 				minecart = true
+				mooshroom = true
 				glow_squid = true
 				glow_item_frame = false
 				squid = true
@@ -62,38 +69,74 @@ mode = "fancy"
 				pillager = true
 				iron_golem = true
 				zombified_piglin = true
+				piglin = true
 				cat = true
 				zombie = true
+				ghast = true
 				sheep = true
+				fireball = true
 				player = true
 				pufferfish = true
 				potion = true
 				wolf = true
 				villager = true
+				skeleton_horse = true
 				zombie_villager = true
+				boat = true
+				strider = true
 				painting = true
+				cave_spider = true
 				cod = true
 				witch = true
 				spider = true
+
+			[light_sources.settings.entities.graveyard]
+				acolyte = true
+				corrupted_vindicator = true
+				skeleton_creeper = true
+				corrupted_pillager = true
+				ghoul = true
+				nightmare = true
+
+			[light_sources.settings.entities.betternether]
+				naga_projectile = true
+				firefly = true
+				flying_pig = true
+				hydrogen_jellyfish = true
+				jungle_skeleton = true
+				skull = true
+				naga = true
 
 			[light_sources.settings.entities.regions_unexplored]
 				boat = true
 
 			[light_sources.settings.entities.frycmobvariants]
+				infected_piglin_brute = true
 				tropical_spider = true
 				corsair = true
+				infected_piglin = true
 				armored_spider = true
 				forgotten = true
 				cave_creeper = true
 				explorer = true
+				nightmare = true
 				undead_warrior = true
 
 			[light_sources.settings.entities.varietyaquatic]
+				cuttlefish = true
 				lionfish = true
 				hermitcrab = true
+				jellyfish = true
 				yellowfin = true
 				opah = true
+				clownfish = true
 				crab = true
+
+			[light_sources.settings.entities.mutantmonsters]
+				mutant_enderman = true
+				mutant_creeper = true
+				mutant_zombie = true
+				mutant_skeleton = true
 
 			[light_sources.settings.entities.lootr]
 				lootr_minecart = true

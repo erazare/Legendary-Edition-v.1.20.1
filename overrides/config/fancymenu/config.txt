@@ -2,7 +2,7 @@
 
 [If menu background sounds added by FancyMenu should be played when a world is loaded.]
 B:playbackgroundsoundsinworld = 'false';
-B:forcefullscreen = 'false';
+B:forcefullscreen = 'true';
 [If menu background sounds added by FancyMenu should be played or not.]
 B:playbackgroundsounds = 'true';
 [A minecraft restart is required after changing this value.]
@@ -25,7 +25,7 @@ B:showcustomizationbuttons = 'false';
 B:allowgameintroskip = 'true';
 B:showanimationloadingstatus = 'true';
 S:gameintroanimation = '';
-B:preloadanimations = 'false';
+B:preloadanimations = 'true';
 S:customgameintroskiptext = '';
 
 
@@ -39,7 +39,7 @@ B:customwindowicon = 'true';
 
 ##[world_loading_screen]
 
-B:showloadingscreenanimation = 'true';
+B:showloadingscreenanimation = 'false';
 B:showloadingscreenpercent = 'true';
 
 
