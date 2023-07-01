@@ -1509,3 +1509,6 @@ de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
 de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
 }
 
+net.minecraft.class_3928 {
+}
+

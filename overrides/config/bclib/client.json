@@ -7,7 +7,7 @@
     "showUpdateInfo [default: true]": true,
     "useModrinthForUpdates [default: false]": false,
     "forceBetterXPreset [default: true]": true,
-    "suppressExperimentalDialogOnLoad [default: false]": false,
+    "suppressExperimentalDialogOnLoad [default: false]": true,
     "notTheDonorType [default: true]": true
   },
   "auto_sync": {
