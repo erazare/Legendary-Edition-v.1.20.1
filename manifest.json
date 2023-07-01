@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Medieval Immersed",
-  "version": "Legendary_Edition-1.20.1-v.1.0.3",
+  "version": "Legendary_Edition-1.20.1-v.1.0.4",
   "author": "Keef_DGAF",
   "files": [
     {
@@ -265,6 +265,11 @@
       "required": true
     },
     {
+      "projectID": 433175,
+      "fileID": 4591974,
+      "required": true
+    },
+    {
       "projectID": 416379,
       "fileID": 4577378,
       "required": true
@@ -361,7 +366,7 @@
     },
     {
       "projectID": 632624,
-      "fileID": 4607403,
+      "fileID": 4619575,
       "required": true
     },
     {
@@ -471,7 +476,7 @@
     },
     {
       "projectID": 852665,
-      "fileID": 4613537,
+      "fileID": 4619941,
       "required": true
     },
     {
@@ -505,8 +510,13 @@
       "required": true
     },
     {
+      "projectID": 632066,
+      "fileID": 4619687,
+      "required": true
+    },
+    {
       "projectID": 834427,
-      "fileID": 4586992,
+      "fileID": 4619515,
       "required": true
     },
     {
@@ -601,7 +611,7 @@
     },
     {
       "projectID": 495476,
-      "fileID": 4615914,
+      "fileID": 4619926,
       "required": true
     },
     {
@@ -671,7 +681,7 @@
     },
     {
       "projectID": 396826,
-      "fileID": 4595219,
+      "fileID": 4619533,
       "required": true
     },
     {
@@ -766,7 +776,7 @@
     },
     {
       "projectID": 415438,
-      "fileID": 4593814,
+      "fileID": 4619938,
       "required": true
     },
     {
