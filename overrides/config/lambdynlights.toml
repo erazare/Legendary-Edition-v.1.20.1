@@ -61,6 +61,7 @@ mode = "fancy"
 				glow_squid = true
 				glow_item_frame = false
 				squid = true
+				parrot = true
 				creeper = true
 				lightning_bolt = true
 				enderman = true
@@ -107,6 +108,9 @@ mode = "fancy"
 				corrupted_pillager = true
 				ghoul = true
 				nightmare = true
+
+			[light_sources.settings.entities.uselessreptile]
+				moleclaw = true
 
 			[light_sources.settings.entities.betternether]
 				naga_projectile = true
@@ -157,4 +161,9 @@ mode = "fancy"
 
 			[light_sources.settings.entities.lootr]
 				lootr_minecart = true
+
+			[light_sources.settings.entities.progressivearchery]
+				copper_arrow = true
+				flint_arrow = true
+				wooden_arrow = true
 
