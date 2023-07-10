@@ -43,6 +43,7 @@ mode = "fancy"
 				experience_orb = true
 				dolphin = true
 				item = true
+				stray = true
 				turtle = true
 				salmon = true
 				vex = true
@@ -100,9 +101,14 @@ mode = "fancy"
 				witch = true
 				spider = true
 
+			[light_sources.settings.entities.soulsweapons]
+				big_chungus = true
+				withered_demon = true
+
 			[light_sources.settings.entities.graveyard]
 				acolyte = true
 				revenant = true
+				wraith = true
 				corrupted_vindicator = true
 				skeleton_creeper = true
 				corrupted_pillager = true
@@ -134,6 +140,7 @@ mode = "fancy"
 				forgotten = true
 				cave_creeper = true
 				explorer = true
+				frozen_zombie = true
 				nightmare = true
 				undead_warrior = true
 
@@ -156,13 +163,21 @@ mode = "fancy"
 			[light_sources.settings.entities.mutantmonsters]
 				mutant_enderman = true
 				mutant_creeper = true
+				creeper_minion = true
+				creeper_minion_egg = true
 				mutant_zombie = true
 				mutant_skeleton = true
+
+			[light_sources.settings.entities.armorrestitched]
+				silk_moth = true
 
 			[light_sources.settings.entities.lootr]
 				lootr_minecart = true
 
 			[light_sources.settings.entities.progressivearchery]
+				golden_arrow = true
+				wooden_kid_arrow = true
+				spectral_arrow = true
 				copper_arrow = true
 				flint_arrow = true
 				wooden_arrow = true

@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","file/MeineKraft 64x 1.20.x.zip","file/FreshAnimations_v1.8.1.zip","file/HumanPlayerVillagers[12].zip","file/automata-steve.zip","file/cozy-critters-1-19-4.zip","Supplementaries Generated Pack","file/Fantasy_Ores_v7.1[classic].zip","betterbeds:fancyconnectedbeds","Essence RPG Resources v1.18.zip","file/Gothic RPG Font.zip","file/DiscreetGUI V1.4.zip","file/Food Tooltips-1.0.3.zip"]
-incompatibleResourcePacks:["file/FreshAnimations_v1.8.1.zip","file/HumanPlayerVillagers[12].zip","file/automata-steve.zip","file/cozy-critters-1-19-4.zip","file/Fantasy_Ores_v7.1[classic].zip","betterbeds:fancyconnectedbeds","file/Gothic RPG Font.zip","file/DiscreetGUI V1.4.zip"]
+resourcePacks:["vanilla","fabric","file/FreshAnimations_v1.8.1.zip","Supplementaries Generated Pack","file/Ozocraft Remix 1.20.1 [beta].zip","file/HumanPlayerVillagers[12].zip","file/automata-steve.zip","file/cozy-critters-1-19-4.zip","file/Improved+Hostiles.zip","file/Fantasy_Ores_v7.1[classic].zip","betterbeds:fancyconnectedbeds","Nyctocosm Resources v0.1.5b.zip","Essence RPG Resources v1.18.zip","file/Gothic RPG Font.zip","file/DiscreetGUI V1.4.zip","Food Tooltips-1.0.3.zip"]
+incompatibleResourcePacks:["file/FreshAnimations_v1.8.1.zip","file/HumanPlayerVillagers[12].zip","file/automata-steve.zip","file/cozy-critters-1-19-4.zip","file/Improved+Hostiles.zip","file/Fantasy_Ores_v7.1[classic].zip","betterbeds:fancyconnectedbeds","file/Gothic RPG Font.zip","file/DiscreetGUI V1.4.zip"]
 lastServer:
 lang:en_us
 soundDevice:""
@@ -230,7 +230,7 @@ key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 soundCategory_master:0.8509933774834437
-soundCategory_music:0.07042253521126761
+soundCategory_music:0.014084507042253521
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
