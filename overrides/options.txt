@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","file/FreshAnimations_v1.8.1.zip","Supplementaries Generated Pack","file/Ozocraft Remix 1.20.1 [beta].zip","file/HumanPlayerVillagers[12].zip","file/automata-steve.zip","file/cozy-critters-1-19-4.zip","file/Improved+Hostiles.zip","file/Fantasy_Ores_v7.1[classic].zip","betterbeds:fancyconnectedbeds","Nyctocosm Resources v0.1.5b.zip","Essence RPG Resources v1.18.zip","file/Gothic RPG Font.zip","file/DiscreetGUI V1.4.zip","Food Tooltips-1.0.3.zip"]
-incompatibleResourcePacks:["file/FreshAnimations_v1.8.1.zip","file/HumanPlayerVillagers[12].zip","file/automata-steve.zip","file/cozy-critters-1-19-4.zip","file/Improved+Hostiles.zip","file/Fantasy_Ores_v7.1[classic].zip","betterbeds:fancyconnectedbeds","file/Gothic RPG Font.zip","file/DiscreetGUI V1.4.zip"]
+resourcePacks:["vanilla","fabric","file/FreshAnimations_v1.8.1.zip","Supplementaries Generated Pack","ParallaxSounds.zip","file/Ozocraft Remix 1.20.1 [beta].zip","file/HumanPlayerVillagers[12].zip","file/automata-steve.zip","file/cozy-critters-1-19-4.zip","file/Improved+Hostiles.zip","file/Fantasy_Ores_v7.1[classic].zip","betterbeds:fancyconnectedbeds","Nyctocosm Resources v0.1.5b.zip","Essence RPG Resources v1.18.zip","file/Gothic RPG Font.zip","file/DiscreetGUI V1.4.zip","Food Tooltips-1.0.3.zip"]
+incompatibleResourcePacks:["file/FreshAnimations_v1.8.1.zip","ParallaxSounds.zip","file/HumanPlayerVillagers[12].zip","file/automata-steve.zip","file/cozy-critters-1-19-4.zip","file/Improved+Hostiles.zip","file/Fantasy_Ores_v7.1[classic].zip","betterbeds:fancyconnectedbeds","file/Gothic RPG Font.zip","file/DiscreetGUI V1.4.zip"]
 lastServer:
 lang:en_us
 soundDevice:""
@@ -172,7 +172,6 @@ key_key.essentialgui.zoom_in:key.keyboard.z
 key_key.essentialgui.contextual_menu:key.keyboard.unknown
 key_key.essentialgui.toggle_night_vision:key.keyboard.f8
 key_key.fabricskyboxes.toggle:key.keyboard.keypad.0
-key_key.heracles.open_quests:key.keyboard.u
 key_key.inventoryhud.toggle:key.keyboard.unknown
 key_key.inventoryhud.openconfig:key.keyboard.unknown
 key_key.inventoryhud.togglepot:key.keyboard.unknown
@@ -205,6 +204,7 @@ key_key.journeymap.fullscreen.west:key.keyboard.left
 key_key.journeymap.fullscreen.disable_buttons:key.keyboard.unknown
 key_key.mcda.firetrail.toggle:key.keyboard.semicolon
 key_key.modmenu.open_menu:key.keyboard.unknown
+key_supplementaries.keybind.quiver:key.keyboard.v
 key_key.origins.primary_active:key.keyboard.g
 key_key.origins.secondary_active:key.keyboard.h
 key_key.origins.view_origin:key.keyboard.o

@@ -8,8 +8,8 @@
   "unlimitedRotations": true,
   "biggerModels": true,
   "backgroundColor": -16777216,
-  "progressBarColor": -1955785,
-  "progressBarBackgroundColor": -16777216,
-  "progressFrameColor": -1,
-  "disableBlend": true
+  "progressBarColor": -5029131,
+  "progressBarBackgroundColor": -13489098,
+  "progressFrameColor": 16777215,
+  "disableBlend": false
 }
