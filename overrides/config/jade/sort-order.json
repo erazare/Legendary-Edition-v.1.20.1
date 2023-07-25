@@ -53,6 +53,7 @@
   "minecraft:item_storage": null,
   "minecraft:fluid_storage": null,
   "minecraft:zombie_villager": null,
+  "levelz:mineable_info": null,
   "jade:object_name": null,
   "jade:registry_name": null,
   "jade:mod_name": null,
@@ -97,6 +98,7 @@
   "minecraft:fluid_storage": null,
   "minecraft:energy_storage": null,
   "minecraft:progress": null,
+  "levelz:mineable_info": null,
   "polymer:blockstate": null,
   "polymer:entities": null,
   "waystones:waystone": null

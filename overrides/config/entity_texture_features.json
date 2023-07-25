@@ -36,7 +36,7 @@
   "dontPatchPBRTextures": true,
   "dontPatchAnimatedTextures": true,
   "ignoredConfigs": [],
-  "hideConfigButton": true,
+  "hideConfigButton": false,
   "disableVanillaDirectoryVariantTextures": false,
   "use3DSkinLayerPatch": true
 }

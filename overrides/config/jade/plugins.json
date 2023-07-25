@@ -50,6 +50,9 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
+  "levelz": {
+    "mineable_info": true
+  },
   "jade": {
     "coordinates.rel": false,
     "distance": false,
