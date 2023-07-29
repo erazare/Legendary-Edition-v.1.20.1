@@ -57,14 +57,6 @@ customization {
 }
 
 customization {
-  identifier = %id=376310%
-  orientation = bottom-right
-  x = -85
-  action = movebutton
-  y = -72
-}
-
-customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
   orientation = bottom-left
   x = 304
@@ -274,5 +266,24 @@ customization {
   y = -4
   alignment = left
   height = 40
+}
+
+customization {
+  orientation = top-left
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = Version 1.1.0
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 128
+  width = 56
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 802dbc52-3c4e-45db-8697-30b2ac3519541690643713959
+  y = 280
+  alignment = left
+  height = 15
 }
 

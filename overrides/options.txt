@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","file/FreshAnimations_v1.8.1.zip","Supplementaries Generated Pack","ParallaxSounds.zip","file/Ozocraft Remix 1.20.1 [beta].zip","file/automata-steve.zip","file/cozy-critters-1-19-4.zip","file/Fantasy_Ores_v7.1[classic].zip","betterbeds:fancyconnectedbeds","Nyctocosm Resources v0.1.5b.zip","Food Tooltips-1.0.3.zip","file/HumanPlayerVillagers[14].zip","Essence RPG Resources v1.18.zip","file/Gothic RPG Font.zip","file/DiscreetGUI V1.4.zip"]
-incompatibleResourcePacks:["file/FreshAnimations_v1.8.1.zip","ParallaxSounds.zip","file/automata-steve.zip","file/cozy-critters-1-19-4.zip","file/Fantasy_Ores_v7.1[classic].zip","betterbeds:fancyconnectedbeds","file/HumanPlayerVillagers[14].zip","file/Gothic RPG Font.zip","file/DiscreetGUI V1.4.zip"]
+resourcePacks:["vanilla","fabric","file/FreshAnimations_v1.8.1.zip","Supplementaries Generated Pack","file/the AspPack.zip","ParallaxSounds.zip","file/automata-steve.zip","file/Fantasy_Ores_v7.1[classic].zip","betterbeds:fancyconnectedbeds","Nyctocosm Resources v0.1.5b.zip","Food Tooltips-1.0.3.zip","file/BetterDragonCollection[11].zip","file/BetterGhastCollection[1].zip","file/Better_Cats_V0.08.zip","file/HumanPlayerVillagers[14].zip","file/Better_Chickens_V0.04.zip","file/Better_Dogs_V0.36.zip","file/Better_Farm_Animals_V0.05.zip","file/ZombiesRemastered[4].zip","file/Iron Girl.zip","file/Essence RPG Resources v1.18.zip","file/Gothic RPG Font.zip","file/DiscreetGUI V1.4.zip"]
+incompatibleResourcePacks:["file/FreshAnimations_v1.8.1.zip","file/the AspPack.zip","ParallaxSounds.zip","file/automata-steve.zip","file/Fantasy_Ores_v7.1[classic].zip","betterbeds:fancyconnectedbeds","file/BetterDragonCollection[11].zip","file/BetterGhastCollection[1].zip","file/HumanPlayerVillagers[14].zip","file/ZombiesRemastered[4].zip","file/DiscreetGUI V1.4.zip"]
 lastServer:
 lang:en_us
 soundDevice:""
