@@ -19,21 +19,6 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
-  orientation = bottom-centered
-  x = -61
-  action = movebutton
-  y = -72
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
-  width = 100
-  action = resizebutton
-  height = 20
-}
-
-customization {
   identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
   orientation = bottom-centered
   x = 52
@@ -57,21 +42,6 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  orientation = bottom-left
-  x = 304
-  action = movebutton
-  y = -72
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  width = 100
-  action = resizebutton
-  height = 20
-}
-
-customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
   action = hidebutton
 }
@@ -92,6 +62,44 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = bottom-left
+  x = 247
+  action = movebutton
+  y = -72
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = bottom-centered
+  x = -61
+  action = movebutton
+  y = -72
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = bottom-left
+  x = 304
+  action = movebutton
+  y = -72
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
   orientation = bottom-right
   x = -200
@@ -104,14 +112,6 @@ customization {
   width = 100
   action = resizebutton
   height = 20
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
-  orientation = bottom-left
-  x = 247
-  action = movebutton
-  y = -72
 }
 
 customization {
@@ -273,13 +273,13 @@ customization {
   enable_scrolling = true
   shadow = true
   scale = 1.0
-  source = Version 1.1.0
+  source = Version 1.2.0
   text_border = 0
   case_mode = normal
   source_mode = direct
   line_spacing = 1
-  x = 128
-  width = 56
+  x = 127
+  width = 62
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = 802dbc52-3c4e-45db-8697-30b2ac3519541690643713959
   y = 280

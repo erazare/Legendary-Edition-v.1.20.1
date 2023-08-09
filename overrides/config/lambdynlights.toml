@@ -15,7 +15,7 @@ mode = "fancy"
 	# TNT lighting mode. May be off, simple or fancy.
 	tnt = "off"
 	# Creeper lighting mode. May be off, simple or fancy.
-	creeper = "simple"
+	creeper = "fancy"
 
 	[light_sources.settings]
 
@@ -85,6 +85,7 @@ mode = "fancy"
 				fireball = true
 				player = true
 				pufferfish = true
+				illusioner = true
 				potion = true
 				trident = true
 				wolf = true
@@ -105,49 +106,20 @@ mode = "fancy"
 				big_chungus = true
 				withered_demon = true
 
-			[light_sources.settings.entities.graveyard]
-				acolyte = true
-				revenant = true
-				wraith = true
-				corrupted_vindicator = true
-				skeleton_creeper = true
-				corrupted_pillager = true
-				ghoul = true
-				nightmare = true
-
 			[light_sources.settings.entities.uselessreptile]
 				moleclaw = true
-
-			[light_sources.settings.entities.betternether]
-				naga_projectile = true
-				firefly = true
-				flying_pig = true
-				hydrogen_jellyfish = true
-				jungle_skeleton = true
-				skull = true
-				naga = true
+				river_pikehorn = true
 
 			[light_sources.settings.entities.regions_unexplored]
 				boat = true
 
-			[light_sources.settings.entities.frycmobvariants]
-				infected_piglin_brute = true
-				tropical_spider = true
-				corsair = true
-				infected_piglin = true
-				armored_spider = true
-				executioner = true
-				forgotten = true
-				cave_creeper = true
-				explorer = true
-				frozen_zombie = true
-				nightmare = true
-				undead_warrior = true
-
 			[light_sources.settings.entities.varietyaquatic]
 				shark = true
+				tetra = true
 				lionfish = true
 				jellyfish = true
+				piranha = true
+				betta = true
 				clownfish = true
 				moonjelly = true
 				cuttlefish = true
@@ -168,8 +140,8 @@ mode = "fancy"
 				mutant_zombie = true
 				mutant_skeleton = true
 
-			[light_sources.settings.entities.armorrestitched]
-				silk_moth = true
+			[light_sources.settings.entities.beachparty]
+				pelican = true
 
 			[light_sources.settings.entities.lootr]
 				lootr_minecart = true
@@ -181,4 +153,86 @@ mode = "fancy"
 				copper_arrow = true
 				flint_arrow = true
 				wooden_arrow = true
+
+			[light_sources.settings.entities.mythicmobs]
+				kobold_warrior = true
+				automaton = true
+				mushroom_thing = true
+				kobold = true
+				drake = true
+				chupacabra = true
+
+			[light_sources.settings.entities.taleofkingdoms]
+				reficule_mage = true
+				lone = true
+				guild_guard = true
+				banker = true
+				innkeeper = true
+				guild_archer = true
+				blacksmith = true
+				guild_captain = true
+				city_builder = true
+				reficule_guardian = true
+				foodshop = true
+				farmer = true
+				reficule_soldier = true
+				guild_villager = true
+				guild_master = true
+
+			[light_sources.settings.entities.graveyard]
+				acolyte = true
+				revenant = true
+				wraith = true
+				corrupted_vindicator = true
+				skeleton_creeper = true
+				corrupted_pillager = true
+				ghoul = true
+				nightmare = true
+
+			[light_sources.settings.entities.mythicmounts]
+				firebird = true
+				courierbird = true
+				moth = true
+				direwolf = true
+				dragon = true
+				geckotoalizard = true
+
+			[light_sources.settings.entities.betternether]
+				naga_projectile = true
+				firefly = true
+				flying_pig = true
+				hydrogen_jellyfish = true
+				jungle_skeleton = true
+				skull = true
+				naga = true
+
+			[light_sources.settings.entities.frycmobvariants]
+				infected_piglin_brute = true
+				tropical_spider = true
+				corsair = true
+				infected_piglin = true
+				armored_spider = true
+				executioner = true
+				forgotten = true
+				cave_creeper = true
+				explorer = true
+				frozen_zombie = true
+				nightmare = true
+				undead_warrior = true
+
+			[light_sources.settings.entities.armorrestitched]
+				silk_moth = true
+
+			[light_sources.settings.entities.terraform]
+				boat = true
+
+			[light_sources.settings.entities.wilderwild]
+				firefly = true
+				jellyfish = true
+
+			[light_sources.settings.entities.amethyst_imbuement]
+				basic_hamster = true
+
+			[light_sources.settings.entities.artifacts]
+				mimic = true
 

@@ -39,7 +39,7 @@ B:customwindowicon = 'true';
 
 ##[world_loading_screen]
 
-B:showloadingscreenanimation = 'false';
+B:showloadingscreenanimation = 'true';
 B:showloadingscreenpercent = 'true';
 
 

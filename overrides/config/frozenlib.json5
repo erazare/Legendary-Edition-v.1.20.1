@@ -1,0 +1,11 @@
+{
+	"useWindOnNonFrozenServers": true,
+	"saveItemCooldowns": true,
+	"removeExperimentalWarning": false,
+	"wardenSpawnTrackerCommand": false,
+	"dataFixer": {
+		"disabledDataFixTypes": [
+			"world_gen_settings",
+		],
+	},
+}
