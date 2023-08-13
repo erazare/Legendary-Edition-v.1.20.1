@@ -18,7 +18,7 @@
   "debug_rendering": false,
   "playerlist_rendering": false,
   "show_mode": "ALWAYS_ON",
-  "coordinates_mode": "BELOW",
+  "coordinates_mode": "OFF",
   "generation_type": "HEAD_FIRST",
   "mod_w_p_type": "SHOW_ENABLED",
   "all_atlases": false,
