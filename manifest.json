@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Medieval Immersed",
-  "version": "Legendary Edition v.1.3.0",
+  "version": "Legendary Edition v.1.3.1",
   "author": "Keef_DGAF",
   "files": [
     {
@@ -186,7 +186,12 @@
     },
     {
       "projectID": 659887,
-      "fileID": 4681593,
+      "fileID": 4704028,
+      "required": true
+    },
+    {
+      "projectID": 394468,
+      "fileID": 3488820,
       "required": true
     },
     {
@@ -207,6 +212,11 @@
     {
       "projectID": 807653,
       "fileID": 4687146,
+      "required": true
+    },
+    {
+      "projectID": 411557,
+      "fileID": 4577194,
       "required": true
     },
     {
@@ -241,7 +251,7 @@
     },
     {
       "projectID": 459496,
-      "fileID": 4684144,
+      "fileID": 4703555,
       "required": true
     },
     {
@@ -290,13 +300,23 @@
       "required": true
     },
     {
+      "projectID": 825512,
+      "fileID": 4651461,
+      "required": true
+    },
+    {
       "projectID": 643780,
       "fileID": 4597790,
       "required": true
     },
     {
+      "projectID": 498794,
+      "fileID": 4638050,
+      "required": true
+    },
+    {
       "projectID": 447673,
-      "fileID": 4682860,
+      "fileID": 4704175,
       "required": true
     },
     {
@@ -430,6 +450,11 @@
       "required": true
     },
     {
+      "projectID": 60089,
+      "fileID": 4581243,
+      "required": true
+    },
+    {
       "projectID": 585548,
       "fileID": 4628876,
       "required": true
@@ -437,6 +462,11 @@
     {
       "projectID": 632624,
       "fileID": 4619575,
+      "required": true
+    },
+    {
+      "projectID": 594979,
+      "fileID": 4595505,
       "required": true
     },
     {
@@ -462,6 +492,11 @@
     {
       "projectID": 438495,
       "fileID": 4596510,
+      "required": true
+    },
+    {
+      "projectID": 876154,
+      "fileID": 4701544,
       "required": true
     },
     {
@@ -585,11 +620,6 @@
       "required": true
     },
     {
-      "projectID": 696251,
-      "fileID": 4699301,
-      "required": true
-    },
-    {
       "projectID": 526824,
       "fileID": 4595190,
       "required": true
@@ -607,11 +637,6 @@
     {
       "projectID": 682567,
       "fileID": 4662015,
-      "required": true
-    },
-    {
-      "projectID": 455508,
-      "fileID": 4683501,
       "required": true
     },
     {
@@ -637,11 +662,6 @@
     {
       "projectID": 552617,
       "fileID": 4688474,
-      "required": true
-    },
-    {
-      "projectID": 821752,
-      "fileID": 4676288,
       "required": true
     },
     {
