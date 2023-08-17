@@ -118,5 +118,6 @@
   "sendOptionalData": true,
   "sendCrashReports": true,
   "debugMessages": false,
+  "enableFeatureManager": true,
   "unknown": false
 }

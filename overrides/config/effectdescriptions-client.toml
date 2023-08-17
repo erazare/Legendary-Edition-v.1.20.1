@@ -16,4 +16,6 @@ add_descriptions_to_widget_tooltips = true
 add_mod_name_to_widget_tooltips = false
 #Add effect descriptions to item tooltips.
 add_descriptions_to_item_tooltips = true
+#Add attributes granted by an effect to effect widget tooltips.
+add_attributes_to_widget_tooltips = true
 

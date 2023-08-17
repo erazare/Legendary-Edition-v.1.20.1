@@ -686,6 +686,21 @@
       "origins_paps_fantasy:vipera_powsnowweak": true,
       "origins_paps_fantasy:vipera_drip": true,
       "origins_paps_fantasy:vipera_hotstrength": true
+    },
+    "dwarf:dwarf": {
+      "enabled": true,
+      "dwarf:dwarven_engineering": true,
+      "dwarf:liquid_courage": true,
+      "dwarf:food_regeneration": true,
+      "dwarf:poison_immunity": true,
+      "dwarf:dwarven_forging": true,
+      "dwarf:tunnel_vision": true,
+      "dwarf:shield_armour": true,
+      "dwarf:size_hitbox": true,
+      "dwarf:short_legs": true,
+      "dwarf:mining_speed": true,
+      "dwarf:more_exhaustion": true,
+      "dwarf:no_bows": true
     }
   }
 }

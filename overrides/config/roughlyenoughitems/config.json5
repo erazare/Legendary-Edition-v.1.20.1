@@ -3,12 +3,13 @@
 		"favorites": [
 			"{id:\"ftbteams:my_team\",json:'{\"group\":\"ftblibrary:info\",\"icon\":\"ftbteams:textures/teams.png\",\"x\":0,\"click\":\"ftbteams:open_gui\",\"loading_screen\":true}',type:\"ftblibrary:sidebar_button\"}",
 			"{id:\"ftbessentials:trash_can\",json:'{\"group\":\"ftblibrary:util\",\"icon\":\"ftblibrary:icons/bin\",\"x\":150,\"click\":\"command:/trashcan\",\"required_server_mods\":[\"ftbessentials\"]}',type:\"ftblibrary:sidebar_button\"}",
-			"{data:{Count:1b,id:\"minecraft:gold_nugget\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
+			"{data:{Count:1b,id:\"minecraft:gold_nugget\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:carrot_on_a_stick\",tag:{CustomModelData:932001,Damage:0,display:{Lore:['{\"text\":\"Right Click to reveal this quest !\",\"color\":\"yellow\",\"italic\":false}'],Name:'{\"text\":\"Common Quest\",\"color\":\"green\",\"italic\":false}'},quest:{__item_id__:1b,complete:0b,id:16b,rarity:1b,reveal:0b}},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
 		],
 		"hiddenFavorites": [],
 		"displayHistory": [],
 		// Declares whether cheating mode is on.
-		"cheating": false,
+		"cheating": true,
 		"favoritesEnabled": true,
 		"keyBindings": {
 			"recipeKeybind": {

@@ -31,7 +31,7 @@ glintStrength:0.75
 damageTiltStrength:1.0
 highContrast:false
 gamma:0.44
-renderDistance:16
+renderDistance:32
 simulationDistance:12
 entityDistanceScaling:1.0
 guiScale:2
@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","file/Questweaks-noshaders.zip","file/Misa_1.20a.zip","file/FreshAnimations_v1.8.1.zip","file/boss-refreshed+FA-v1.0.0.zip","file/[1.3] Enhanced Boss Bars.zip","Origin Subspecies Resources.zip","quest-system-v2-0-rp.zip","Essence RPG Resources for 0.1.6.zip","file/Gothic RPG Font.zip","file/DiscreetGUI V1.4.zip"]
-incompatibleResourcePacks:["file/FreshAnimations_v1.8.1.zip","Origin Subspecies Resources.zip","file/DiscreetGUI V1.4.zip"]
+resourcePacks:["vanilla","fabric","file/Questweaks-noshaders.zip","file/[1.3] Enhanced Boss Bars.zip","Origin Subspecies Resources.zip","file/Misa_1.20a.zip","file/FreshAnimations_v1.8.1.zip","file/boss-refreshed+FA-v1.0.0.zip","sas-2-1-0-resources.zip","Essence RPG Resources for 0.1.6.zip","file/Gothic RPG Font.zip","file/DiscreetGUI V1.4.zip"]
+incompatibleResourcePacks:["Origin Subspecies Resources.zip","file/FreshAnimations_v1.8.1.zip","file/DiscreetGUI V1.4.zip"]
 lastServer:
 lang:en_us
 soundDevice:""
@@ -121,6 +121,7 @@ key_key.hotbar.9:key.keyboard.9
 key_Reload Menu | CTRL + ALT + :key.keyboard.r
 key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.c
 key_key.ftbteams.open_gui:key.keyboard.unknown
+key_nbttooltips.keybind:key.keyboard.left.alt
 key_key.advancedcompass.openconfig:key.keyboard.p
 key_key.advancedcompass.newwaypoint:key.keyboard.n
 key_key.advancedcompass.openwaypointlist:key.keyboard.keypad.5
@@ -153,7 +154,6 @@ key_key.craftingtweaks.decompressAll:key.keyboard.unknown
 key_key.craftingtweaks.refill_last:key.keyboard.tab
 key_key.craftingtweaks.refill_last_stack:key.keyboard.tab
 key_key.craftingtweaks.transfer_stack:key.keyboard.unknown
-key_key.diet.open.desc:key.keyboard.unknown
 key_key.essentialgui.main_menu:key.keyboard.f12
 key_key.essentialgui.debug_entities:key.keyboard.f10
 key_key.essentialgui.toggle_lighting:key.keyboard.f9
@@ -206,10 +206,6 @@ key_keybindings.spell_engine.hotbar_lock:key.keyboard.z
 key_key.travelersbackpack.inventory:key.keyboard.b
 key_key.travelersbackpack.toggle_tank:key.keyboard.n
 key_key.travelersbackpack.cycle_tool:key.keyboard.z
-key_treechop.key.toggle_chopping:key.keyboard.unknown
-key_treechop.key.toggle_felling:key.keyboard.unknown
-key_treechop.key.cycle_sneak_behavior:key.keyboard.unknown
-key_treechop.key.open_settings_overlay:key.keyboard.n
 key_key.uselessreptile.flyDownKey:key.keyboard.unknown
 key_key.uselessreptile.primaryAttackKey:key.keyboard.g
 key_key.uselessreptile.secondaryAttackKey:key.keyboard.v
